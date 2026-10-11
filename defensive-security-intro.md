@@ -15,4 +15,5 @@
 ## Questions I had
 - What is the difference between blocking an account and blocking an IP?
 
-## Room link: https://tryhackme.com/room/dsicyber101?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=6ac9dc06ec2d54dc90a156ee
+## Room link:
+https://tryhackme.com/room/dsicyber101?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=6ac9dc06ec2d54dc90a156ee
