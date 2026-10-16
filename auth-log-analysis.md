@@ -21,3 +21,6 @@
 
 ## Questions I had
 - None
+
+## Extra practice 
+I found 2 failed login attempts in line 1 and 3 of auth.log 
